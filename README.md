@@ -6,7 +6,9 @@ An intelligent content marketing platform that leverages AI to help users create
 
 ## 🎥 Demo Video
 
-Watch the complete platform demonstration: **[AI Content Marketing Hub Demo](https://www.youtube.com/watch?v=o9qjYJEPVEU)**
+Watch the complete platform demonstration:
+
+[![AI Content Marketing Hub Demo](https://img.youtube.com/vi/o9qjYJEPVEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=o9qjYJEPVEU)   
 
 ## ✨ Features
 
